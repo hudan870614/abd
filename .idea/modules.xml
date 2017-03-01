@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abd.iml" filepath="$PROJECT_DIR$/abd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/alarm/alarm.iml" filepath="$PROJECT_DIR$/components/alarm/alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/brand/brand.iml" filepath="$PROJECT_DIR$/components/brand/brand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/comp_common/comp_common.iml" filepath="$PROJECT_DIR$/components/comp_common/comp_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/control.iml" filepath="$PROJECT_DIR$/control/control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/common/control_common.iml" filepath="$PROJECT_DIR$/control/common/control_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/diff/diff.iml" filepath="$PROJECT_DIR$/components/diff/diff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/explosive_mum/explosive_mum.iml" filepath="$PROJECT_DIR$/components/explosive_mum/explosive_mum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/forecast/forecast.iml" filepath="$PROJECT_DIR$/components/forecast/forecast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/fun_common/fun_common.iml" filepath="$PROJECT_DIR$/function/fun_common/fun_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/function.iml" filepath="$PROJECT_DIR$/function/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/gather_mum/gather_mum.iml" filepath="$PROJECT_DIR$/components/gather_mum/gather_mum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/hbase/hbase.iml" filepath="$PROJECT_DIR$/function/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/hdfs/hdfs.iml" filepath="$PROJECT_DIR$/function/hdfs/hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/heat/heat.iml" filepath="$PROJECT_DIR$/components/heat/heat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/in_out_move/in_out_move.iml" filepath="$PROJECT_DIR$/components/in_out_move/in_out_move.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/kafka/kafka.iml" filepath="$PROJECT_DIR$/function/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/label/label.iml" filepath="$PROJECT_DIR$/components/label/label.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/location/location.iml" filepath="$PROJECT_DIR$/components/location/location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/log/log.iml" filepath="$PROJECT_DIR$/function/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/monitor/monitor.iml" filepath="$PROJECT_DIR$/control/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/offline/offline.iml" filepath="$PROJECT_DIR$/control/offline/offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/online/online.iml" filepath="$PROJECT_DIR$/control/online/online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/pre_shuffle/pre_shuffle.iml" filepath="$PROJECT_DIR$/components/pre_shuffle/pre_shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function/redis/redis.iml" filepath="$PROJECT_DIR$/function/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/user_relation/user_relation.iml" filepath="$PROJECT_DIR$/components/user_relation/user_relation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/warn_water/warn_water.iml" filepath="$PROJECT_DIR$/components/warn_water/warn_water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/zl/zl.iml" filepath="$PROJECT_DIR$/components/zl/zl.iml" />
+    </modules>
+  </component>
+</project>

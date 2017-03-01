@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alarm" />
+        <module name="brand" />
+        <module name="comp_common" />
+        <module name="control_common" />
+        <module name="diff" />
+        <module name="explosive_mum" />
+        <module name="forecast" />
+        <module name="fun_common" />
+        <module name="gather_mum" />
+        <module name="hbase" />
+        <module name="hdfs" />
+        <module name="heat" />
+        <module name="in_out_move" />
+        <module name="kafka" />
+        <module name="label" />
+        <module name="location" />
+        <module name="log" />
+        <module name="monitor" />
+        <module name="offline" />
+        <module name="online" />
+        <module name="pre_shuffle" />
+        <module name="redis" />
+        <module name="user_relation" />
+        <module name="warn_water" />
+        <module name="zl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abd" target="1.7" />
+      <module name="alarm" target="1.7" />
+      <module name="brand" target="1.7" />
+      <module name="comp_common" target="1.7" />
+      <module name="components" target="1.7" />
+      <module name="control" target="1.7" />
+      <module name="control_common" target="1.7" />
+      <module name="diff" target="1.7" />
+      <module name="explosive_mum" target="1.7" />
+      <module name="forecast" target="1.7" />
+      <module name="fun_common" target="1.7" />
+      <module name="function" target="1.7" />
+      <module name="gather_mum" target="1.7" />
+      <module name="hbase" target="1.7" />
+      <module name="hdfs" target="1.7" />
+      <module name="heat" target="1.7" />
+      <module name="in_out_move" target="1.7" />
+      <module name="kafka" target="1.7" />
+      <module name="label" target="1.7" />
+      <module name="location" target="1.7" />
+      <module name="log" target="1.7" />
+      <module name="monitor" target="1.7" />
+      <module name="offline" target="1.7" />
+      <module name="online" target="1.7" />
+      <module name="pre_shuffle" target="1.7" />
+      <module name="redis" target="1.7" />
+      <module name="user_relation" target="1.7" />
+      <module name="warn_water" target="1.7" />
+      <module name="zl" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

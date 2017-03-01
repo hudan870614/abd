@@ -1,0 +1,74 @@
+<assembly>
+  <id>bin</id>
+  <formats>
+    <format>tar.gz</format>
+  </formats>
+  <dependencySets>
+
+    <!--<dependencySet>
+      <useProjectArtifact>true</useProjectArtifact>
+      <outputDirectory>lib</outputDirectory>
+      <excludes>
+        <exclude>org.scala-lang:scala-library</exclude>
+        <exclude>org.apache.spark:spark-core_2.10</exclude>
+        <exclude>org.apache.spark:spark-sql_2.10</exclude>
+        <exclude>org.apache.spark:spark-mllib_2.10</exclude>
+        <exclude>org.apache.hadoop:hadoop-client</exclude>
+        <exclude>org.apache.hbase:hbase-server</exclude>
+
+        <exclude>org.datanucleus:datanucleus-core</exclude>
+        <exclude>org.datanucleus:datanucleus-api-jdo</exclude>
+        <exclude>org.datanucleus:datanucleus-rdbms</exclude>
+      </excludes>
+    </dependencySet>-->
+    <dependencySet>
+      <useProjectArtifact>false</useProjectArtifact>
+      <outputDirectory>lib</outputDirectory>
+      <includes>
+        <include>it.unimi.dsi:fastutil</include>
+        <include>net.debasishg:redisclient_2.10</include>
+        <include>com.google.guava:guava</include>
+        <include>org.apache.hbase:hbase-client</include>
+        <include>org.apache.hbase:hbase-common</include>
+        <include>org.apache.hbase:hbase-protocol</include>
+        <include>org.apache.htrace:htrace-core</include>
+
+        <include>redis.clients:jedis</include>
+        <include>org.apache.commons:commons-pool2</include>
+        <include>net.debasishg:redisclient_2.10</include>
+        <include>org.apache.kafka:kafka_2.10</include>
+
+        <include>org.apache.kafka:kafka-clients</include>
+        <include>com.yammer.metrics:metrics-core</include>
+        <include>org.apache.spark:spark-streaming_2.10</include>
+
+        <include>org.apache.spark:spark-streaming-kafka_2.10</include>
+        <include>com.github.sgroschupf:zkclient</include>
+
+      </includes>
+    </dependencySet>
+
+  </dependencySets>
+  <fileSets>
+    <fileSet>
+      <outputDirectory>/</outputDirectory>
+      <includes>
+        <include>README.txt</include>
+      </includes>
+    </fileSet>
+    <fileSet>
+      <directory>src/main/scripts</directory>
+      <outputDirectory>/bin</outputDirectory>
+      <includes>
+        <include>*.sh</include>
+      </includes>
+    </fileSet>
+    <fileSet>
+      <directory>src/main/resources</directory>
+      <outputDirectory>/conf</outputDirectory>
+      <includes>
+        <include>*.*</include>
+      </includes>
+    </fileSet>
+  </fileSets>
+</assembly>

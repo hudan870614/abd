@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="online">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/control/online/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 10" modules="zl">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/zl/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 11" modules="in_out_move">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/in_out_move/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 12" modules="warn_water">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/warn_water/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 13" modules="label">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/label/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 14" modules="user_relation">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/user_relation/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 15" modules="diff">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/diff/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 16" modules="gather_mum">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/gather_mum/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 17" modules="alarm">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/alarm/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 18" modules="log">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/function/log/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 19" modules="offline">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/control/offline/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="pre_shuffle">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/pre_shuffle/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="location">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/location/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="control_common">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/control/common/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="redis">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/function/redis/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="comp_common">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/comp_common/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="kafka">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/function/kafka/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="brand">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/brand/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="forecast">
+      <parameters>
+        <parameter value="-make:transitive" />
+        <parameter value="-dependencyfile" />
+        <parameter value="$PROJECT_DIR$/components/forecast/target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
